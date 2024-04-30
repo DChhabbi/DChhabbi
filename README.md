@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a BI Developer with expertise in Power BI, SQL
 
 ## 🔧 Skills
 
+![OGC](https://github.com/DChhabbi/DChhabbi/assets/168535334/e1833e72-0572-4b9c-bb4c-10d61a9f6b0f)
 - **Power BI**
 - **SQL**
 - **Data Analytics**
