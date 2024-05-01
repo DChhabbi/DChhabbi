@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a BI Developer with expertise in Power BI, SQL
 
 ## 💼 Experience
 
+- **Project Phases and Client Requirements:** Understand project phases and gather client-specific data.
 - **Report & Dashboard Development:** Design and develop user-friendly reports and dashboards in Power BI and SQL Server.
 - **Data Migration & ETL:** Expertise in migrating and performing ETL from various sources, including SQL Server and Power BI, with monitoring, debugging, and tuning capabilities.
 - **Cloud Strategy:** Establish enterprise cloud strategy, standards, and best practices for secure and compliant data management.
@@ -27,6 +28,7 @@ Welcome to my GitHub profile! I'm a BI Developer with expertise in Power BI, SQL
 - **Database Management:** Manage Power BI databases using Couchbase, improving data query performance.
 - **Automation:** Automate data extraction and loading tasks using Excel, saving significant manual work hours per week.
 - **Data Cleansing:** Execute data cleansing activities to ensure business data quality and enhance KPIs and matrices.
+- Provided end-to-end service with quality assurance, addressing client queries and ensuring client satisfaction.
 
 ## 📫 Get in Touch
 
