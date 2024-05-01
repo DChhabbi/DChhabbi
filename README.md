@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a BI Developer with expertise in Power BI, SQL
 
 ## 📫 Get in Touch
 
-- LinkedIn: (www.linkedin.com/in/dayanand-chhabbi-5523a522a)
+- LinkedIn: www.linkedin.com/in/dayanand-chhabbi-5523a522a
 - Email: Dayanandchabbi@gmail.com
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
