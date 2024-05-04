@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a BI Developer with expertise in Power BI, SQL
 - **ETL**
 - **Cloud Strategy**
 
-## 💼 Experience
+## 💼 Responsibility Handling
 
 - **Project Phases and Client Requirements:** Understand project phases and gather client-specific data.
 - **Report & Dashboard Development:** Design and develop user-friendly reports and dashboards in Power BI and SQL Server.
