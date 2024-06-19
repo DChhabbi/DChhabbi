@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dayanand Chhabbi
 
-Welcome to my GitHub profile! I'm a BI Developer with expertise in Power BI, SQL, data analytics, and visualization.
+Welcome to my GitHub profile! I'm a BI Analyst with expertise in Power BI, SQL, data analytics, and visualization.
 
 ## 🔧 Skills
 
