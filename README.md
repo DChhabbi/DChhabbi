@@ -22,11 +22,15 @@ Welcome to my GitHub profile! I'm a BI Developer with expertise in Power BI, SQL
 - **Interactive Dashboards:** Design interactive graphical dashboards and reports using Power BI.
 - **Data Infrastructure:** Build data and reporting infrastructure from scratch using Power Query and BI tools to provide real-time insights to clients.
 - **Real-time Dashboard Creation:** Develop real-time data streaming dashboards for quicker decision-making and improved operational efficiency.
-- **SQL Expertise:** Proficient in writing complex SQL queries, stored procedures, triggers, constraints, and indexes for large datasets.
+- **Data Cleansing:** Execute data cleansing activities to ensure business data quality and enhance KPIs and matrices.
 - **Power BI Knowledge:** Well-versed with Power BI Desktop, Power BI Server, and Power BI Mobile.
 - **Database Management:** Manage Power BI databases using Couchbase, improving data query performance.
 - **Automation:** Automate data extraction and loading tasks using Excel, saving significant manual work hours per week.
-- **Data Cleansing:** Execute data cleansing activities to ensure business data quality and enhance KPIs and matrices.
+- **SQL Expertise:** Proficient in writing complex SQL queries, stored procedures, triggers, constraints, and indexes for large datasets.
+- Developed SQL scripts, indexes, and complex queries to analyze capital projects, driving informed decision-making and operational efficiency.
+- Designed and implemented a robust data quality and integrity process, significantly reducing errors and enhancing overall data accuracy.
+- Spearheaded the development and maintenance of a comprehensive reporting and analytics solution, translating data into actionable insights that directly contributed to revenue growth.
+- Collaborated cross-functionally to optimize ETL processes, achieving a 30% reduction in data transfer time and ensuring enhanced data consistency across enterprise systems.
 - **Insights & Recommendations:** Provide valuable insights and recommendations by analyzing large datasets to enhance customer satisfaction.
 - Provided end-to-end service with quality assurance, addressing client queries and ensuring client satisfaction.
 
